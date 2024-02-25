@@ -2,7 +2,7 @@
 title: "HW 04 - Data Classes with `forcats` & `lubridate`"
 output: 
   tufte::tufte_html:
-    css: ../hw.css
+    css: hw.css
     tufte_variant: "envisioned"
     highlight: pygments
 link-citations: yes
